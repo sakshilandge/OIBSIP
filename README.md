@@ -7,7 +7,7 @@ This repository contains the tasks assigned to me by Oasis Infobyte.
 The tasks in this repository are as follows-
 
 * Task1- Basic Calculator
-This is a web calculator with basic functions of BODMAS.
+** This is a web calculator with basic functions of BODMAS.
 * Task2- Blog
 * Task3- To-Do List
 
