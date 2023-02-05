@@ -19,8 +19,9 @@ All of the above tasks are built using-
 * CSS
 * JavaScript
 
-The above tasks are a part of my Internship under [Oasis Infobyte.](https://oasisinfobyte.com/)
-[@Oasis Infobyte](https://www.linkedin.com/company/oasis-infobyte/)
+The above tasks are a part of my Internship under 
+* [Oasis Infobyte](https://oasisinfobyte.com/)
+* [@Oasis Infobyte](https://www.linkedin.com/company/oasis-infobyte/)
 
 
 ## Authors
