@@ -12,9 +12,9 @@ The tasks in this repository are as follows-
 
 All of the above tasks are built using-
 
-*HTML
-*CSS
-*JavaScript
+* HTML
+* CSS
+* JavaScript
 
 ## Authors
 
